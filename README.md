@@ -13,6 +13,8 @@ The goal of rumor\_detection\_2019\_ncov is to …
 2.  [数据集地址](https://www.datafountain.cn/competitions/422/datasets)
 3.  GitBook:
     [notebook](https://jiaxiangbu.github.io/rumor_detection_2019_ncov/cookbook.html)
+4.  [Paper
+    Review](https://jiaxiangbu.github.io/rumor_detection_2019_ncov/learning_notes.html)
 
 **赛题背景**
 
